@@ -1,0 +1,32 @@
+---
+layout: "layouts/base.html"
+hasForm: true
+---
+
+As I wrote recently [on my blog](https://henry.codes/writing/leaving-new-york), I’m headed back to Denver soon. There’s no place like New York, and I’m determined not to leave the city without minmaxing on wonder and delight in the final days.
+
+Here’s what I gotta get done before I leave:
+
+- [x] The Noguchi Museum _December 29 2022_
+- [x] See a play at Japan Society _January 15 2023_
+- [ ] The Tenement Museum
+- [ ] Exploring Tarrytown
+- [ ] Candlemaking at Lanterne
+- [ ] Queens Museum
+- [ ] The Drawing Center
+- [ ] American Folk Art Museum
+- [ ] Django Jazz Club
+- [ ] La Monte Young and Marian Zazeela's “Dream House”
+- [ ] City Hall Station
+- [ ] Roosevelt Island Smallpox Hospital
+- [ ] Mmuseumm
+- [ ] The Elevated Acre
+- [ ] Mysterious Bookshop
+- [ ] Please Don't Tell Speakeasy
+- [ ] Trinity Place Bank Vault Bar
+- [ ] New York Transit Museum
+- [ ] Return to the High Line
+- [ ] Return to the Cloisters
+- [ ] Roosevelt Island Tramway
+- [ ] Le Boudoir Speakeasy
+- [ ] The High Bridge

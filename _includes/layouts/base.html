@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <header class="header">
+        <a href="/">The NYC List</a>
+        <time>SS23</time>
+        <cite>A tiny website by <a href="https://henry.codes">Henry From Online</a></cite>
+    </header>
+    <main>
+        <h1 class="title {%- unless hasForm %} title--small{% endunless %}">
+            <small>The Official</small> New York City <em>Bucket List</em>
+        </h1>
+        <div class="content">
+            {{ content }}
+        </div>
+        {% if hasForm %}
+        <form name="submissions" action="/thanks" class="submission">
+            <label class="submission__field">
+                <span class="submission__label">Suggestions?</span>
+                <input class="submission__input" type="text" name="suggestion" id="suggestion" required>
+            </label>
+            <button class="submission__action" type="submit">Send</button>
+        </form>
+        {% endif %}
+    </main>
+</body>
+
+</html>
