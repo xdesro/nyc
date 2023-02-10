@@ -10,12 +10,12 @@ Here’s what I gotta get done before I leave:
 - [x] The Noguchi Museum _December 29 2022_
 - [x] See a play at Japan Society _January 15 2023_
 - [ ] The Tenement Museum
-- [ ] Exploring Tarrytown
+- [x] Exploring Tarrytown _January 21 2023_
 - [ ] Candlemaking at Lanterne
 - [ ] Queens Museum
 - [ ] The Drawing Center
 - [ ] American Folk Art Museum
-- [ ] Django Jazz Club
+- [x] Django Jazz Club _February 2 2023_
 - [ ] La Monte Young and Marian Zazeela's “Dream House”
 - [ ] City Hall Station
 - [ ] Roosevelt Island Smallpox Hospital
