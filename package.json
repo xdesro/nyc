@@ -13,5 +13,8 @@
     "@11ty/eleventy": "^1.0.2",
     "markdown-it": "^13.0.1",
     "markdown-it-checkbox": "^1.1.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-img": "^2.0.1"
   }
 }
