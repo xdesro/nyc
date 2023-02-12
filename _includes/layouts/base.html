@@ -16,9 +16,9 @@
         <time>SS23</time>
         <cite>A tiny website by <a href="https://henry.codes">Henry From Online</a></cite>
     </header>
-    <main>
+    <main {% unless hasForm %}class="main-center" {% endunless %}"">
         <h1 class="title {%- unless hasForm %} title--small{% endunless %}">
-            <small>My Work-In-Progress</small> New York City <em>Bucket List</em>
+            <small>The @404boyfriend</small> New York City <em>Bucket List</em>
         </h1>
         <div class="content">
             {{ content }}
@@ -31,7 +31,6 @@
             </label>
             <button class="submission__action" type="submit">Send</button>
         </form>
-        {% endif %}
         <div class="images">
             <div class="image"><img src="/img/one-world-trade.jpg" /></div>
             <div class="image"><img src="/img/brooklyn-bridge.jpg" /></div>
@@ -43,6 +42,8 @@
             <div class="image"><img src="/img/skyline-sunset.jpg" /></div>
             <div class="image"><img src="/img/st-thomas-church.jpg" /></div>
         </div>
+        {% endif %}
+
     </main>
     <script src="/js/index.js"></script>
 </body>

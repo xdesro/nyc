@@ -71,6 +71,12 @@ img {
     height: auto;
 }
 
+.main-center {
+    display: grid;
+    min-height: 100vh;
+    place-content: center;
+}
+
 .header {
     line-height: 1;
     position: fixed;

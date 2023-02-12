@@ -27,6 +27,7 @@ const lerp = (min, max, t) => min * (1 - t) + max * t;
 const checkboxes = document.querySelectorAll('input[type="checkbox"]');
 let clickedCount = 0;
 let canDoAlert = true;
+let canDoFinalAlert = true;
 
 const alerts = [
   "Thanks, lol, that’s absolutely how this works. Appreciate your help.",
@@ -37,6 +38,8 @@ const alerts = [
   "Please",
   "Alright fuck it bro, vibe out. I can see this is important to you. Enjoy yourself. Go nuts bro",
 ];
+const finalAlert = `Are you proud of yourself? Did you accomplish what you set out to do? Was it worth it?`;
+
 const doAlert = () => {
   if (alerts.length <= clickedCount) {
     canDoAlert = false;
@@ -47,6 +50,12 @@ const doAlert = () => {
 };
 checkboxes.forEach((checkbox) => {
   checkbox.addEventListener("change", (e) => {
+    const allCheckboxesAreChecked = [...checkboxes].every(
+      (checkbox) => checkbox.checked
+    );
+    const noCheckboxesAreChecked = ![...checkboxes].some(
+      (checkbox) => checkbox.checked
+    );
     if (canDoAlert) {
       doAlert();
       if (e.currentTarget.checked) {
@@ -54,6 +63,12 @@ checkboxes.forEach((checkbox) => {
       } else {
         e.currentTarget.checked = true;
       }
+    } else if (
+      (allCheckboxesAreChecked || noCheckboxesAreChecked) &&
+      canDoFinalAlert
+    ) {
+      alert(finalAlert);
+      canDoFinalAlert = false;
     }
   });
 });
