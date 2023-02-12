@@ -47,7 +47,7 @@
             {{ content }}
         </div>
         {% if hasForm %}
-        <form name="submissions" action="/thanks" class="submission">
+        <form name="submissions" action="/thanks" class="submission" name="submissions" netlify>
             <label class="submission__field">
                 <span class="submission__label">Come Ye Bearing NYC Suggestions?</span>
                 <input class="submission__input" type="text" name="suggestion" id="suggestion" required>
