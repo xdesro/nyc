@@ -32,3 +32,4 @@ Here’s what I gotta get done before I leave:
 - [ ] Roosevelt Island Tramway
 - [ ] Le Boudoir Speakeasy
 - [ ] The High Bridge
+- [ ] Storm King in Beacon, NY (<cite>Recommended by [W. Evan Sheehan](https://darthmall.net/)</cite>)
