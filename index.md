@@ -9,23 +9,23 @@ Here’s what I gotta get done before I leave:
 
 - [x] The Noguchi Museum _December 29 2022_
 - [x] See a play at Japan Society _January 15 2023_
-- [ ] The Tenement Museum
 - [x] Exploring Tarrytown _January 21 2023_
+- [x] Django Jazz Club _February 2 2023_
+- [x] Cafe De L’Enfer _February 10 2023_
+- [x] Trinity Place Bank Vault Bar _February 10 2023_ (It was mid)
+- [x] Classic Long Island diner brunch _February 11 2023_
+- [ ] The Tenement Museum
 - [ ] Candlemaking at Lanterne
 - [ ] Queens Museum
 - [ ] The Drawing Center
-- [x] Classic Long Island diner brunch _February 11 2023_
 - [ ] American Folk Art Museum
-- [x] Django Jazz Club _February 2 2023_
 - [ ] La Monte Young and Marian Zazeela's “Dream House”
 - [ ] City Hall Station
 - [ ] Roosevelt Island Smallpox Hospital
-- [x] Cafe De L’Enfer _February 10 2023_
 - [ ] Mmuseumm
 - [ ] The Elevated Acre
 - [ ] Mysterious Bookshop
 - [ ] Please Don't Tell Speakeasy
-- [x] Trinity Place Bank Vault Bar _February 10 2023_ (It was mid)
 - [ ] New York Transit Museum
 - [ ] Return to the High Line
 - [ ] Return to the Cloisters
