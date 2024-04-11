@@ -15,21 +15,20 @@ Here’s what I gotta get done before I leave:
 - [x] Trinity Place Bank Vault Bar _February 10 2023_ (It was mid)
 - [x] Classic Long Island diner brunch _February 11 2023_
 - [ ] The Tenement Museum
-- [ ] Candlemaking at Lanterne
 - [ ] Queens Museum
 - [ ] The Drawing Center
 - [ ] American Folk Art Museum
 - [ ] La Monte Young and Marian Zazeela's “Dream House”
 - [ ] City Hall Station
-- [ ] Roosevelt Island Smallpox Hospital
+- [x] Roosevelt Island Smallpox Hospital _April 5 2024_
 - [ ] Mmuseumm
 - [ ] The Elevated Acre
 - [ ] Mysterious Bookshop
-- [ ] Please Don't Tell Speakeasy
+- [x] Please Don't Tell Speakeasy _April 7 2024_
 - [ ] New York Transit Museum
 - [ ] Return to the High Line
-- [ ] Return to the Cloisters
-- [ ] Roosevelt Island Tramway
+- [x] Return to the Cloisters _April 6 2024_
+- [x] Roosevelt Island Tramway _April 5 2024_
 - [ ] Le Boudoir Speakeasy
 - [ ] The High Bridge
 - [ ] Storm King in Beacon, NY (<cite>Recommended by [W. Evan Sheehan](https://darthmall.net/)</cite>)
